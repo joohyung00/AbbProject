@@ -1,0 +1,2 @@
+{"Attempt": "Zero Shot", "Accuracy": 0.841, "Recall": 0.12411347517730496, "Precision": 0.330188679245283}
+{"Attempt": "Full Shot", "Accuracy": 0.856, "Recall": 0.02127659574468085, "Precision": 0.3333333333333333}

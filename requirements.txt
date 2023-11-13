@@ -1,0 +1,13 @@
+protobuf==3.20.*
+scikit-learn==1.1.1
+pyod==1.0.1
+Keras==2.8.0
+tensorflow==2.8.0
+torch==1.9.0
+rtdl==0.0.13
+delu==0.0.13
+lightgbm==3.3.5
+xgboost==1.7.3
+catboost==1.1.1
+copulas==0.8.0
+combo==0.1.3
